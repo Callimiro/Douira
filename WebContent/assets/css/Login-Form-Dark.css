@@ -1,0 +1,114 @@
+.login-dark form {
+  max-width:400px;
+  width:90%;
+  background-color:#1e2833;
+  padding:40px;
+  border-radius:4px;
+  color:#fff;
+  box-shadow:3px 3px 4px rgba(0,0,0,0.2);
+}
+
+.login-dark .illustration {
+  text-align:center;
+  padding:15px 0 20px;
+  font-size:100px;
+  color:#2980ef;
+}
+
+.login-dark form .form-control {
+  background:none;
+  border:none;
+  border-bottom:1px solid #434a52;
+  border-radius:0;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+}
+
+.login-dark form .btn-primary {
+  background:#214a80;
+  border:none;
+  border-radius:4px;
+  padding:11px;
+  box-shadow:none;
+  margin-top:26px;
+  text-shadow:none;
+  outline:none;
+}
+
+.login-dark form .btn-primary:hover, .login-dark form .btn-primary:active {
+  background:#214a80;
+  outline:none;
+}
+
+.login-dark form .forgot {
+  display:block;
+  text-align:center;
+  font-size:12px;
+  color:#6f7a85;
+  opacity:0.9;
+  text-decoration:none;
+}
+
+.login-dark form .forgot:hover, .login-dark form .forgot:active {
+  opacity:1;
+  text-decoration:none;
+}
+
+.login-dark form .btn-primary:active {
+  transform:translateY(1px);
+}
+
+#carousel-1:hover {
+  border:none;
+}
+
+@media (max-width: 1100px) {
+  .d-print-block {
+    visibility:hidden;
+  }
+}
+
+a:hover {
+  color:rgb(146,146,146);
+  text-decoration:none;
+}
+
+.acc-img:hover {
+  width:85px;
+}
+
+#acc-div1:hover {
+  text-decoration:none;
+  background:linear-gradient(to top, #00a4a4, #005796, rgb(0,106,142));
+  border:solid 5px rgba(255,255,255,0.35);
+}
+
+#acc-div2:hover {
+  text-decoration:none;
+  background:linear-gradient(to top, #00a4a4, #005796, rgb(0,106,142));
+  border:solid 5px rgba(255,255,255,0.35);
+}
+
+#acc-div3:hover {
+  text-decoration:none;
+  background:linear-gradient(to top, #00a4a4, #005796, rgb(0,106,142));
+  border:solid 5px rgba(255,255,255,0.35);
+}
+
+#acc-div4:hover {
+  text-decoration:none;
+  background:linear-gradient(to top, #00a4a4, #005796, rgb(0,106,142));
+  border:solid 5px rgba(255,255,255,0.35);
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  background:linear-gradient(310deg, rgb(197,197,197), rgb(224,224,224));
+  color:white;
+  border-bottom:5px white solid;
+}
+
+a {
+  color:rgb(109,109,109);
+}
+
